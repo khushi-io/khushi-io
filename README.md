@@ -238,7 +238,7 @@ Or maybe you came for a project. Feel free to open an issue, share feedback, or 
 
 <a href="https://www.linkedin.com/in/khushichile"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:khushichile2004@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://khushi-chile-portfolio.netlify.app"><img src="https://img.shields.io/badge/Visit_Portfolio-7c5cbf?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
+<a href="https://khushi-chile.netlify.app"><img src="https://img.shields.io/badge/Visit_Portfolio-7c5cbf?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
 
 <br/><br/>
 
