@@ -17,7 +17,7 @@
 
 <a href="https://www.linkedin.com/in/khushichile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:khushichile2004@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://khushi-chile-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-7c5cbf?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio"/></a>
+<a href="https://khushi-chile.netlify.app"><img src="https://img.shields.io/badge/Portfolio-7c5cbf?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio"/></a>
 
 </div>
 
